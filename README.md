@@ -19,7 +19,7 @@ In the file, add the following lines:
     */6 9-18 * * * cd [path to directory] && sudo ./block.sh
     0   18   * * * cd [path to directory] && sudo ./unblock.sh
 
-To save and exit, enter <CTRL>+<O>, then <RETURN>, then <CTRL>+<X>. It should
+To save and exit, enter CTRL+O, then RETURN, then CTRL+X. It should
 say something like cronjob installed.
 
 The last thing you need to do is to make sure that the block and unblock files
